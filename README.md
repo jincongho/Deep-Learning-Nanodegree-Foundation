@@ -11,4 +11,4 @@ My study notes and exercises for this course from Udacity. This course emphasis 
     - *Week 2 Numerical Classification: Neural Network Architecture and Types 
         6. Siraj's Neural Network 
 
-* project week
+\* project week
