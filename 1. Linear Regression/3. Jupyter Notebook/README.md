@@ -21,6 +21,6 @@ jupyter nbconvert notebook.ipynb --to slides
 
 ## Resources
 - Magic Commands: http://ipython.readthedocs.io/en/stable/interactive/magics.html
-    - %pdb%
+    - %pdb
     - %matplotlib inline
     - %%timeit
